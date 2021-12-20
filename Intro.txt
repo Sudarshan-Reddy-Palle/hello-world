@@ -5,5 +5,4 @@ Hi, Welcome to Github.
 
 Java
 Android
-Mysql
 
