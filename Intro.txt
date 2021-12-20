@@ -9,3 +9,6 @@ Android
 mysql
 
 done with master.
+
+Nodejs
+Reactjs
